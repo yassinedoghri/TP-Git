@@ -51,4 +51,6 @@ Liste des étudiants ayant réussi ce TP
 * Brigitte PINDRA,
 * Devansh PARNAMI,
 * Jessy MAUCLAIR-RICHALET,
-* Antoine Catton.
+* Antoine Catton,
+* Tony TOP,
+* Xavier MAILLOT,
