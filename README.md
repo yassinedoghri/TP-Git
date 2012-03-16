@@ -45,3 +45,4 @@ Liste des étudiants ayant réussi ce TP
 --------------------------------------
 * Xiaowen ZHANG.
 * Jérémy GIGNON
+* Brigitte PINDRA
