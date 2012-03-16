@@ -46,4 +46,5 @@ Liste des étudiants ayant réussi ce TP
 * Xiaowen ZHANG,
 * Devansh PARNAMI,
 * Jessy MAUCLAIR-RICHALET,
-* Antoine VIANDON.
+* Antoine VIANDON,
+* Elhadji SARR.
