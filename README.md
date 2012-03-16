@@ -32,7 +32,7 @@ Git par la pratique
 
 * Mettez à jour votre disque dur jusqu'à ce que vous récupériez les modifications de quelqu'un d'autre.
 
-        git pull official master
+        git pull official 
 
 * Réglez le conflit. Modifiez la mise en page de la liste pour qu'elle soit correcte.
 * Une fois que le conflit est réglé par une révision, publiez l'ensemble des révisions dans votre espace public :
@@ -43,8 +43,17 @@ Git par la pratique
 
 Liste des étudiants ayant réussi ce TP
 --------------------------------------
+
 * Xiaowen ZHANG,
+* Maximilien TYC,
+* Hamza TOUNZI,
+* Jérémy GIGNON,
+* Brigitte PINDRA,
 * Devansh PARNAMI,
 * Jessy MAUCLAIR-RICHALET,
 * Antoine VIANDON,
-* Elhadji SARR.
+* Elhadji SARR,
+* Antoine Catton,
+* Tony TOP,
+* Xavier MAILLOT.
+
