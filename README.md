@@ -32,7 +32,7 @@ Git par la pratique
 
 * Mettez à jour votre disque dur jusqu'à ce que vous récupériez les modifications de quelqu'un d'autre.
 
-        git pull official 
+        git pull official master
 
 * Réglez le conflit. Modifiez la mise en page de la liste pour qu'elle soit correcte.
 * Une fois que le conflit est réglé par une révision, publiez l'ensemble des révisions dans votre espace public :
