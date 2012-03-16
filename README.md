@@ -43,6 +43,10 @@ Git par la pratique
 
 Liste des étudiants ayant réussi ce TP
 --------------------------------------
-* Xiaowen ZHANG ;
-* Jessy MAUCLAIR-RICHALET ;
+
+* Xiaowen ZHANG,
+* Jérémy GIGNON,
+* Brigitte PINDRA,
+* Devansh PARNAMI,
+* Jessy MAUCLAIR-RICHALET,
 * Antoine Catton.
