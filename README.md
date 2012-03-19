@@ -55,5 +55,5 @@ Liste des étudiants ayant réussi ce TP
 * Elhadji SARR,
 * Antoine Catton,
 * Tony TOP,
-* Xavier MAILLOT.
-
+* Xavier MAILLOT,
+* Ayoub MOURAD.
