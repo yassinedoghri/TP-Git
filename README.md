@@ -1,4 +1,4 @@
-Git par la pratique
+﻿Git par la pratique
 ===================
 
 * Mettez vous en binôme.
@@ -57,4 +57,5 @@ Liste des étudiants ayant réussi ce TP
 * Tony TOP,
 * Xavier MAILLOT,
 * Cédric FELIZARD,
-* Ayoub MOURAD.
+* Ayoub MOURAD,
+* Zhiying GU.
