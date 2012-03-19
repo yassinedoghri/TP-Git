@@ -1,4 +1,4 @@
-Git par la pratique
+﻿Git par la pratique
 ===================
 
 * Mettez vous en binôme.
@@ -56,4 +56,5 @@ Liste des étudiants ayant réussi ce TP
 * Antoine Catton,
 * Tony TOP,
 * Xavier MAILLOT.
+* Kaixiang ZHANG
 
