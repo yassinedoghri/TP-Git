@@ -56,8 +56,10 @@ Liste des étudiants ayant réussi ce TP
 * Antoine Catton,
 * Tony TOP,
 * Xavier MAILLOT,
-* Kaixiang ZHANG,
-* Yipeng HUANG,
-* Zhiying GU,
 * Ayoub MOURAD,
-* Maxime COUASNON.
+* Danièle WEULASSAGOU,
+* Matthieu BLOCH,
+* Maxime COUASNON,
+* Zhiying GU,
+* Kaixiang ZHANG,
+* Yipeng HUANG.
