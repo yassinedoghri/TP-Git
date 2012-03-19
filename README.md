@@ -59,6 +59,5 @@ Liste des étudiants ayant réussi ce TP
 * Kaixiang ZHANG,
 * Yipeng HUANG,
 * Zhiying GU,
-* Ayoub MOURAD.
-
-
+* Ayoub MOURAD,
+* Maxime COUASNON.
