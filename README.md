@@ -63,4 +63,5 @@ Liste des étudiants ayant réussi ce TP
 * Maxime COUASNON,
 * Zhiying GU,
 * Kaixiang ZHANG,
-* Yipeng HUANG.
+* Yipeng HUANG,
+* Stephane BERTHELOT.
