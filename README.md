@@ -65,4 +65,5 @@ Liste des étudiants ayant réussi ce TP
 * Kaixiang ZHANG,
 * Yipeng HUANG,
 * Stephane BERTHELOT,
-* Gabriel KAAM.
+* Gabriel KAAM,
+* Christophe MORE.
