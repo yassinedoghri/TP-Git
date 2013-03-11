@@ -66,5 +66,6 @@ Liste des étudiants ayant réussi ce TP
 * Yipeng HUANG,
 * Stephane BERTHELOT,
 * Jérémie JALOUZET,
+* Alexandre RAOUL,
 * Gabriel KAAM,
 * Christophe MORE.
