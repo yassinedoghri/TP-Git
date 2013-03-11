@@ -65,7 +65,8 @@ Liste des étudiants ayant réussi ce TP
 * Kaixiang ZHANG,
 * Yipeng HUANG,
 * Stephane BERTHELOT,
+* Jérémie JALOUZET,
 * Alexandre RAOUL,
 * Gabriel KAAM,
 * Christophe MORE,
-*Mohammed Ouadghiri.
+* Mohammed Ouadghiri.
