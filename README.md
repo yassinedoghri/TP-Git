@@ -73,5 +73,6 @@ Liste des étudiants ayant réussi ce TP
 * Mohammed Ouadghiri,
 * Simon Renoult,
 * Arthur Bourjac,
-* Darya Ciuhrii
-* Maxime CHAMONT.
+* Darya Ciuhrii,
+* Maxime CHAMONT,
+* Guokan SHANG.
