@@ -71,6 +71,8 @@ Liste des étudiants ayant réussi ce TP
 * Mickael Francisco,
 * Christophe MORE,
 * Mohammed Ouadghiri,
+* Togui Ilyass,
+* Nadia Kamoun, 
 * Simon Renoult,
 * Arthur Bourjac,
 * Darya Ciuhrii.
