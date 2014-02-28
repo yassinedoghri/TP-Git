@@ -70,4 +70,5 @@ Liste des étudiants ayant réussi ce TP
 * Gabriel KAAM,
 * Mickael Francisco,
 * Christophe MORE,
-* Mohammed Ouadghiri.
+* Mohammed Ouadghiri,
+* Guokan SHANG.
