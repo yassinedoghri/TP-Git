@@ -68,6 +68,8 @@ Liste des étudiants ayant réussi ce TP
 * Jérémie JALOUZET,
 * Alexandre RAOUL,
 * Gabriel KAAM,
+* Nicolas Isaac,
+* Thibault Jacquemet,
 * Mickael Francisco,
 * Christophe MORE,
 * Mohammed Ouadghiri,
