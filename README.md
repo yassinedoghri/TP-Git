@@ -81,11 +81,8 @@ Liste des étudiants ayant réussi ce TP
 * Florent Segouin,
 * Sébastien Inion,
 * Maxime CHAMONT,
-<<<<<<< HEAD
 * Anouar FOURTI,
-* Loic Loinet,
-=======
+* Loic Moinet,
 * Joffrey COULON,
 * Sebastien PECOUL,
 * Alexis Brandao.
->>>>>>> 471e16bf938d3fff0903de23df6a563d4f5ec14b
