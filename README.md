@@ -80,6 +80,7 @@ Liste des étudiants ayant réussi ce TP
 * Darya Ciuhrii,
 * Florent Segouin,
 * Sébastien Inion,
-* Maxime CHAMONT.
+* Maxime CHAMONT,
 * Félicien BROCHU,
 * Maxime LAIGRE,
+* Alexis Brandao,
