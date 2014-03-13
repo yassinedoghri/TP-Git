@@ -79,4 +79,5 @@ Liste des étudiants ayant réussi ce TP
 * Arthur Bourjac,
 * Darya Ciuhrii,
 * Florent Segouin,
-* Sébastien Inion.
+* Sébastien Inion,
+* Maxime CHAMONT.
