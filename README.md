@@ -81,4 +81,5 @@ Liste des étudiants ayant réussi ce TP
 * Florent Segouin,
 * Sébastien Inion,
 * Maxime CHAMONT,
-* Alexis Brandao.
+* Alexis Brandao,
+* Joseph Le.
