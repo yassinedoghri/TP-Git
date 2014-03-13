@@ -82,4 +82,9 @@ Liste des étudiants ayant réussi ce TP
 * Sébastien Inion,
 * Maxime CHAMONT,
 * Vincent Courtade,
-* Kevin Maciolek.
+* Kevin Maciolek,
+* Félicien BROCHU,
+* Maxime LAIGRE,
+* Joffrey COULON,
+* Sebastien PECOUL,
+* Alexis Brandao.
