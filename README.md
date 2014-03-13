@@ -1,4 +1,4 @@
-﻿Git par la pratique
+Git par la pratique
 ===================
 
 * Mettez vous en binôme.
@@ -80,4 +80,5 @@ Liste des étudiants ayant réussi ce TP
 * Darya Ciuhrii,
 * Florent Segouin,
 * Sébastien Inion,
-* Maxime CHAMONT.
+* Maxime CHAMONT,
+* Vincent Courtade.
