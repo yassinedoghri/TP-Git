@@ -83,4 +83,6 @@ Liste des étudiants ayant réussi ce TP
 * Maxime CHAMONT,
 * Félicien BROCHU,
 * Maxime LAIGRE,
+* Joffrey COULON,
+* Sebastien PECOUL,
 * Alexis Brandao,
