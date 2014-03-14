@@ -92,4 +92,5 @@ Liste des étudiants ayant réussi ce TP
 * Maxime LAIGRE,
 * Joffrey COULON,
 * Sebastien PECOUL,
-* Joseph Le.
+* Joseph Le,
+* Florian BRUNIAUX.
