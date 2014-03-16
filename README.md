@@ -93,8 +93,5 @@ Liste des étudiants ayant réussi ce TP
 * Joffrey COULON,
 * Sebastien PECOUL,
 * Joseph Le,
-<<<<<<< HEAD
+* Guokan SHANG,
 * Florian BRUNIAUX.
-=======
-* Guokan SHANG.
->>>>>>> 1567349cdc494fa05c300189c03efb183b91e58d
