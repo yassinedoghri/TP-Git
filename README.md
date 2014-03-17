@@ -93,4 +93,5 @@ Liste des étudiants ayant réussi ce TP
 * Joffrey COULON,
 * Sebastien PECOUL,
 * Joseph Le,
-* Guokan SHANG.
+* Guokan SHANG,
+* Florian BRUNIAUX.
