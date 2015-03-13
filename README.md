@@ -95,5 +95,4 @@ Liste des étudiants ayant réussi ce TP
 * Joseph Le,
 * Guokan SHANG,
 * Florian BRUNIAUX,
-* Jimmy PAUPHILET,
-* Julie ROMERO.
+* Jimmy PAUPHILET.
