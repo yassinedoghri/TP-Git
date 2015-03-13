@@ -101,5 +101,5 @@ Liste des étudiants ayant réussi ce TP
 * Bastien Jorge,
 * Guillaume DAIX,
 * Julie ROMERO,
-* Valentin LEFEVRE.
-* Jonathan SERRA,
+* Valentin LEFEVRE,
+* Jonathan SERRA.
