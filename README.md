@@ -104,4 +104,5 @@ Liste des étudiants ayant réussi ce TP
 * Mélanie Araujo Martins,
 * Andre Marvell IKOUNGA,
 * Julie ROMERO,
-* Valentin LEFEVRE.
+* Valentin LEFEVRE,
+* Jonathan SERRA.
