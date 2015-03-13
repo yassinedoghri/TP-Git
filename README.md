@@ -95,7 +95,13 @@ Liste des étudiants ayant réussi ce TP
 * Joseph Le,
 * Guokan SHANG,
 * Florian BRUNIAUX,
+* Alexis DEPREZ,
+* Qing ZHANG,
 * Jimmy PAUPHILET,
 * Bastien Jorge,
 * Guillaume DAIX,
-* Pablo PRUDHOMMEAU.
+* Pablo PRUDHOMMEAU,
+* Mélanie Araujo Martins,
+* Andre Marvell IKOUNGA,
+* Julie ROMERO,
+* Valentin LEFEVRE.
