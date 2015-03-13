@@ -97,4 +97,5 @@ Liste des étudiants ayant réussi ce TP
 * Florian BRUNIAUX,
 * Jimmy PAUPHILET,
 * Bastien Jorge,
-* Guillaume DAIX.
+* Guillaume DAIX,
+* Julie ROMERO.
