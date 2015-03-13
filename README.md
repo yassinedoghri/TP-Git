@@ -1,4 +1,4 @@
-﻿Git par la pratique
+Git par la pratique
 ===================
 
 * Mettez vous en binôme.
@@ -95,5 +95,6 @@ Liste des étudiants ayant réussi ce TP
 * Joseph Le,
 * Guokan SHANG,
 * Florian BRUNIAUX,
+* Jimmy PAUPHILET,
 * Bastien Jorge,
 * Guillaume DAIX.
