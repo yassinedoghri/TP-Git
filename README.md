@@ -109,4 +109,6 @@ Liste des étudiants ayant réussi ce TP
 * Meheza SAMIE,
 * Changru LU,
 * Adrien AMOROS,
-* Martin Lagrange.
+* Martin Lagrange,
+* Romain GAGNAIRE,
+* Valentin BONINO.
