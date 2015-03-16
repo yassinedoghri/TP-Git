@@ -108,5 +108,5 @@ Liste des étudiants ayant réussi ce TP
 * Jonathan SERRA,
 * Changru LU,
 * Adrien AMOROS,
-* Martin Lagrange.
-
+* Martin Lagrange,
+* Marie Chidaine.
