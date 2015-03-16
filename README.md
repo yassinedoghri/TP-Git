@@ -111,4 +111,5 @@ Liste des étudiants ayant réussi ce TP
 * Adrien AMOROS,
 * Martin Lagrange,
 * Romain GAGNAIRE,
+* Clement DOSDA,
 * Valentin BONINO.
