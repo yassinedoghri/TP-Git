@@ -109,5 +109,6 @@ Liste des étudiants ayant réussi ce TP
 * Changru LU,
 * Adrien AMOROS,
 * Martin Lagrange,
-* Oumou Salamata THIAM.
+* Oumou Salamata THIAM,
+* Cyprien Guillemot.
 
