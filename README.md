@@ -106,5 +106,7 @@ Liste des étudiants ayant réussi ce TP
 * Julie ROMERO,
 * Valentin LEFEVRE,
 * Jonathan SERRA,
-* Changru LU.
+* Changru LU,
+* Adrien AMOROS,
+* Martin Lagrange.
 
