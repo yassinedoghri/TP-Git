@@ -106,9 +106,15 @@ Liste des étudiants ayant réussi ce TP
 * Julie ROMERO,
 * Valentin LEFEVRE,
 * Jonathan SERRA,
+* Meheza SAMIE,
 * Changru LU,
 * Adrien AMOROS,
 * Martin Lagrange,
+<<<<<<< HEAD
 * Edward Njango,
-* Sidjui Constant.
-
+* Sidjui Constant,
+* Oumou Salamata THIAM,
+* Cyprien Guillemot,
+* Romain GAGNAIRE,
+* Valentin BONINO.
+>>>>>>> 2bbc8a4eb1065f40671e6b402e940167dcce2c75
