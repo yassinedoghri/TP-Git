@@ -117,4 +117,5 @@ Liste des étudiants ayant réussi ce TP
 * Oumou Salamata THIAM,
 * Cyprien Guillemot,
 * Romain GAGNAIRE,
+* Clement DOSDA,
 * Valentin BONINO.
