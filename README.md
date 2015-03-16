@@ -106,8 +106,13 @@ Liste des étudiants ayant réussi ce TP
 * Julie ROMERO,
 * Valentin LEFEVRE,
 * Jonathan SERRA,
+* Meheza SAMIE,
 * Changru LU,
 * Adrien AMOROS,
 * Martin Lagrange,
 * Marie Chidaine,
-* Romain Barre.
+* Romain Barre,
+* Oumou Salamata THIAM,
+* Cyprien Guillemot,
+* Romain GAGNAIRE,
+* Valentin BONINO.
