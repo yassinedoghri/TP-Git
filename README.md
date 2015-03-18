@@ -118,4 +118,5 @@ Liste des étudiants ayant réussi ce TP
 * Cyprien Guillemot,
 * Romain GAGNAIRE,
 * Clement DOSDA,
-* Valentin BONINO.
+* Valentin BONINO,
+* Baptiste LOMBARDO.
