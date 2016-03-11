@@ -53,9 +53,13 @@
 
 * Dans GitHub faites une demande d'intégration (*pull request*).
 
-* Supposons maitenant que la branche officielle soit en déshérence et que vous décidiez de prendre la relève. Récupérez la demande d'intégration d'un de vos collègues :
+* Supposons maitenant que la branche officielle soit en déshérence et que vous décidiez de prendre la relève. Récupérez la dernière version officielle :
+ 
+        git pull official master
 
-        git pull https://github.com/nomducollegue/TP-Git.git nomdesa branche
+* Récupérez la demande d'intégration d'un de vos collègues :
+
+        git pull https://github.com/nomducollegue/TP-Git.git nomdesabranche
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
 
