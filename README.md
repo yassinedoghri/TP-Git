@@ -32,9 +32,10 @@
         git add README.md
         git commit
 
-* Intégrez automatiquement la première branche à la branche maître
+* Intégrez automatiquement la première branche à une branche d'intégration :
 
         git checkout master
+        git checkout -b votrecompte1-votrecompte2
         git merge votrecompte1
         
 * Essayez d'intégrer la seconde branche à
@@ -48,16 +49,15 @@
 
 * Une fois que le conflit est réglé par une révision, publiez l'ensemble des révisions dans votre espace public :
 
-        git push
+        git push votrecompte1-votrecompte2
 
 * Dans GitHub faites une demande d'intégration (*pull request*).
 
-* Mettez à jour votre disque dur jusqu'à ce que vous récupériez les modifications de quelqu'un d'autre.
+* Supposons maitenant que la branche officielle soit en déshérence et que vous décidiez de prendre la relève. Récupérez la demande d'intégration d'un de vos collègues :
 
-        git pull official master
+        git pull https://github.com/nomducollegue/TP-Git.git nomdesa branche
 
-* Réglez le conflit. 
-
+* Réglez le conflit. Mettez à jour votre branche maître. Publiez.
 
 Liste des étudiants ayant réussi ce TP
 --------------------------------------
