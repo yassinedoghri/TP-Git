@@ -22,7 +22,7 @@
 
 * Publiez-la dans votre espace public:
 
-        git push
+        git push origin votrecompte1
 
 * Ajoutez le prénom et le nom de l'autre membre du binôme selon les mêmes règles que tout à l'heure.
 * Faites une révision :
@@ -49,7 +49,7 @@
 
 * Une fois que le conflit est réglé par une révision, publiez l'ensemble des révisions dans votre espace public :
 
-        git push votrecompte1-votrecompte2
+        git push origin votrecompte1-votrecompte2
 
 * Dans GitHub faites une demande d'intégration (*pull request*).
 
