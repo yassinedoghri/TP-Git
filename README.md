@@ -143,4 +143,6 @@ Liste des étudiants ayant réussi ce TP
 * Valentin BONINO,
 * Baptiste LOMBARDO,
 * Yassine DOGHRI,
-* Christopher KAY.
+* Christopher KAY,
+* Etienne JACQUOT,
+* Etienne CUNIN.
